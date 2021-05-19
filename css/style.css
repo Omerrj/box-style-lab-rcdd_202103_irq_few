@@ -55,7 +55,6 @@ h4.indifferent{
 }
 h4.dubious{
   box-shadow:  -1px 1px #ff6666, -2px 2px #ff6666, -3px 3px #ff6666, -4px 4px #ff6666, -5px 5px #ff6666;
-  background-color: #dddd44;
   background: linear-gradient(to right, #dddd44, #ffff44)
 }
 .column {
