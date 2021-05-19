@@ -52,6 +52,8 @@ h4.indifferent{
    border: 1px solid #ff6666;
    box-shadow:  -1px 1px #dd4444, -2px 2px #dd4444, -3px 3px #dd4444, -4px 4px #dd4444, -5px 5px #dd4444;
 }
+
+
 h4.dubious{
   box-shadow:  -1px 1px #ff6666, -2px 2px #ff6666, -3px 3px #ff6666, -4px 4px #ff6666, -5px 5px #ff6666;
   background: linear-gradient(to right, #dddd44, #ffff44)
